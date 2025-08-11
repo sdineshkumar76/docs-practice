@@ -1,0 +1,7 @@
+site_name: API Docs Demo
+
+nav:
+  - Home: index.md
+  - API:
+      - Overview: api/readme.md
+site_url: https://sdineshkumar76.github.io/docs-practice/
