@@ -1,6 +1,6 @@
 # Welcome to My Documentation
 
 This is the homepage.
-This is a new line for the home page.
 
+Another team member updated the home page text.
 
